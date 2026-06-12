@@ -74,3 +74,46 @@
 **Annotation:** This article highlights Roxy’s contributions to Reddit’s brand growth, advertiser education, and the platform’s evolution as a mainstream marketing channel.
 
 **Key Takeaway:** Reddit’s growth was built on community trust, making authenticity the core of any successful Reddit marketing strategy.
+
+
+## Ann Smarty
+
+**Role:** Brand & Community Strategist, Digital Marketing Consultant  
+**Company:** Smarty.Marketing
+
+**Why Selected:** Ann Smarty is a highly experienced digital marketer known for her expertise in SEO, content marketing, online communities, and brand reputation management. Her work is highly relevant to Reddit marketing because she focuses on community-driven discovery, trust-building, and leveraging user-generated conversations for brand visibility.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | Ann Smarty LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/annsmarty/) |
+| 2 | Smarty.Marketing Blog | Accessed on 2026-06-12 | [View source](https://smarty.marketing/blog/) |
+| 3 | How to Build a Community Around Your Brand | 2025-09-18 | [View source](https://smarty.marketing/build-community-brand/) |
+| 4 | Search Engine Journal Author Profile | Accessed on 2026-06-12 | [View source](https://www.searchenginejournal.com/author/ann-smarty/) |
+
+### Source Notes
+
+#### 1. Ann Smarty LinkedIn Profile
+
+**Annotation:** Ann’s LinkedIn posts regularly discuss brand authority, search visibility, and how community engagement strengthens long-term customer trust.
+
+**Key Takeaway:** Community participation builds stronger brand trust than direct promotion alone.
+
+#### 2. Smarty.Marketing Blog
+
+**Annotation:** Her official blog contains practical strategies on content marketing, online reputation, and community engagement, including leveraging user conversations for brand discovery.
+
+**Key Takeaway:** User-generated discussions are a powerful channel for organic brand visibility.
+
+#### 3. How to Build a Community Around Your Brand
+
+**Annotation:** This article explains how brands can create sustainable communities through valuable participation, trust-building, and consistent audience interaction.
+
+**Key Takeaway:** Long-term community trust is built through contribution and consistency, not one-off campaigns.
+
+#### 4. Search Engine Journal Author Profile
+
+**Annotation:** Ann’s articles on Search Engine Journal provide additional insights into SEO, content ecosystems, and community-driven search visibility.
+
+**Key Takeaway:** Search visibility increasingly depends on real conversations and community mentions, making Reddit and similar platforms important for modern brand discovery.
