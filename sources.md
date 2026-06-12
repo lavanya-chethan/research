@@ -140,7 +140,7 @@
 | 1 | David Quaid LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/davidquaid/) |
 | 2 | Reddit Marketing: How to Grow on Reddit Without Getting Banned | 2025-08-14 | [View source](https://www.inboundjunction.com/blog/reddit-marketing) |
 | 3 | Reddit Ads for SaaS: A Practical Guide | 2025-11-09 | [View source](https://www.inboundjunction.com/blog/reddit-ads-guide) |
-| 4 | David Quaid on Reddit Growth (Podcast Interview) | 2025-04-22 | [View source](https://www.youtube.com/watch?v=YzjP9fYvB4Y) |
+| 4 | David Quaid On Bing, Backlinks & Ranking Fast | 2025-04-22 | [View source](https://www.youtube.com/watch?v=VcVgOMF-r_k) |
 
 ### Source Notes
 
@@ -162,11 +162,11 @@
 
 **Key Takeaway:** Reddit Ads work best when paired with organic community participation for trust-building.
 
-#### 4. David Quaid on Reddit Growth (Podcast Interview)
+#### 4. David Quaid On Bing, Backlinks & Ranking Fast
 
-**Annotation:** In this interview, David discusses how startups can use Reddit for customer acquisition, market research, and brand positioning.
+**Annotation:** In this video, David discusses SEO growth tactics including Bing visibility, backlink strategy, and ways to improve ranking speed. The source adds broader context to his growth marketing expertise beyond Reddit-specific acquisition.
 
-**Key Takeaway:** Reddit is both a growth channel and a customer intelligence platform for SaaS companies.
+**Key Takeaway:** Sustainable growth depends on combining channel-specific expertise, such as Reddit marketing, with broader SEO fundamentals like search visibility, backlinks, and ranking strategy.
 
 
 ## Ross Simmonds
