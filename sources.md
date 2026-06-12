@@ -203,3 +203,46 @@
 **Annotation:** In this podcast, Ross discusses how B2B SaaS companies can identify niche communities, build trust, and use content to generate demand.
 
 **Key Takeaway:** Community trust compounds over time and creates stronger long-term demand than paid campaigns.
+
+
+## Rand Fishkin
+
+**Role:** Co-Founder, Audience Research & Marketing Strategist  
+**Company:** SparkToro
+
+**Why Selected:** Rand Fishkin is one of the most credible experts in audience research, content distribution, and community-driven discovery. His work is highly relevant to Reddit marketing because he regularly analyzes how online communities influence trust, search behavior, and buying decisions in B2B SaaS.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | Rand Fishkin LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/randfishkin/) |
+| 2 | SparkToro Blog | Accessed on 2026-06-12 | [View source](https://sparktoro.com/blog/) |
+| 3 | Why Reddit Is Dominating Search Results | 2025-07-08 | [View source](https://sparktoro.com/blog/why-reddit-is-dominating-google-search-results/) |
+| 4 | Rand Fishkin on Audience Research & Community Discovery (Podcast) | 2025-03-21 | [View source](https://www.youtube.com/watch?v=yo0nJ9j6QZw) |
+
+### Source Notes
+
+#### 1. Rand Fishkin LinkedIn Profile
+
+**Annotation:** Rand frequently shares insights on audience behavior, content ecosystems, and the increasing role of online communities in shaping customer trust.
+
+**Key Takeaway:** Understanding where your audience spends time is essential before building any growth strategy.
+
+#### 2. SparkToro Blog
+
+**Annotation:** Rand’s official blog contains research-backed insights on audience intelligence, community behavior, and organic growth channels.
+
+**Key Takeaway:** Audience research should guide channel selection, including niche communities like Reddit.
+
+#### 3. Why Reddit Is Dominating Search Results
+
+**Annotation:** This article analyzes how Reddit has become a dominant source of trusted information in search results and why marketers should pay attention.
+
+**Key Takeaway:** Reddit’s rise in search visibility makes it a critical platform for brand awareness and trust-building.
+
+#### 4. Rand Fishkin on Audience Research & Community Discovery (Podcast)
+
+**Annotation:** In this discussion, Rand explains how marketers can identify where target audiences gather and how to use those communities for deeper customer understanding.
+
+**Key Takeaway:** Communities like Reddit provide raw, authentic customer insights that can improve product positioning and content strategy.
