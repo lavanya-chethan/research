@@ -160,3 +160,46 @@
 **Annotation:** In this interview, David discusses how startups can use Reddit for customer acquisition, market research, and brand positioning.
 
 **Key Takeaway:** Reddit is both a growth channel and a customer intelligence platform for SaaS companies.
+
+
+## Ross Simmonds
+
+**Role:** Founder & CEO, Content Distribution Strategist  
+**Company:** Foundation Marketing
+
+**Why Selected:** Ross Simmonds is one of the most respected voices in B2B content distribution and demand generation. His work is highly relevant to Reddit marketing because he emphasizes community-first content distribution, leveraging niche platforms like Reddit for organic reach, and using audience insights to fuel SaaS growth.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | Ross Simmonds LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/rosssimmonds/) |
+| 2 | Create Once, Distribute Forever | Accessed on 2026-06-12 | [View source](https://foundationinc.co/lp/create-once-distribute-forever/) |
+| 3 | Why Content Distribution Matters More Than Ever | 2025-10-05 | [View source](https://foundationinc.co/lab/content-distribution/) |
+| 4 | Ross Simmonds on Community-Led Content Distribution (Podcast) | 2025-03-11 | [View source](https://www.youtube.com/watch?v=Wh0L0Yw8KcA) |
+
+### Source Notes
+
+#### 1. Ross Simmonds LinkedIn Profile
+
+**Annotation:** Ross regularly shares practical insights on content distribution, audience building, and how to use niche communities for long-term organic growth.
+
+**Key Takeaway:** Distribution is often more important than creation—great content needs the right communities to succeed.
+
+#### 2. Create Once, Distribute Forever
+
+**Annotation:** Ross’s book and framework explain how to maximize content reach across multiple channels, including communities and forums like Reddit.
+
+**Key Takeaway:** Content should be repurposed and distributed strategically across audience-rich platforms.
+
+#### 3. Why Content Distribution Matters More Than Ever
+
+**Annotation:** This article explains why brands need to move beyond traditional channels and actively distribute content where their audience already spends time.
+
+**Key Takeaway:** Community platforms like Reddit are high-signal distribution channels because users are already discussing pain points.
+
+#### 4. Ross Simmonds on Community-Led Content Distribution (Podcast)
+
+**Annotation:** In this podcast, Ross discusses how B2B SaaS companies can identify niche communities, build trust, and use content to generate demand.
+
+**Key Takeaway:** Community trust compounds over time and creates stronger long-term demand than paid campaigns.
