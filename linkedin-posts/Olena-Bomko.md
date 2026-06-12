@@ -39,3 +39,34 @@ Join my community: r/MarketFit on Reddit.
 This post outlines Olena’s practical Reddit growth framework for improving visibility in AI search, building trust in niche communities, and avoiding common promotional mistakes. It emphasizes contribution-first marketing, social listening, and long-term community building over short-term hacks.
 
 ---
+
+## Post 2
+
+**Date:** 2026-06-05  
+**URL:** https://www.linkedin.com/posts/activity-7467567954487087104-CrgK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw
+
+**Content:**
+
+Proton has 5+ big communities on Reddit. And these communities are very cool.
+
+It makes sense. They have 100+ million customers. Different products. Reddit is a great growth lever (+ community) for them.
+
+An owned Reddit community gives a lot of benefits:
+
+- A place for the community and partners.
+- Citations in AI and Google. All the discussions are public. AI loves quoting Reddit.
+- Reddit marketing. It's difficult to do marketing in other subreddits.
+- Personal branding. The team, customers, and partners can host Ask Me Anything sessions.
+- Constant feedback, testimonials, and product questions.
+- Distribution channel for blog posts and videos.
+- Bottom of the funnel content that ranks on Google. And you can't post it in other communities (you would be banned).
+
+But you should invest in building your community.
+
+![Olena Bomko branded Reddit community post](../other/images/Olena_Bomko_image2.png)
+
+**Summary:**
+
+This post highlights the strategic value of owning a branded Reddit community for SaaS companies. Olena explains how dedicated communities can improve AI visibility, strengthen brand trust, enable direct customer engagement, and create a sustainable content distribution channel.
+
+---
