@@ -183,7 +183,7 @@
 | 1 | Ross Simmonds LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/rosssimmonds/) |
 | 2 | Create Once, Distribute Forever | Accessed on 2026-06-12 | [View source](https://foundationinc.co/lp/create-once-distribute-forever/) |
 | 3 | Why Content Distribution Matters More Than Ever | 2025-10-05 | [View source](https://foundationinc.co/lab/content-distribution/) |
-| 4 | Ross Simmonds on Community-Led Content Distribution (Podcast) | 2025-03-11 | [View source](https://www.youtube.com/watch?v=Wh0L0Yw8KcA) |
+| 4 | The Reddit Strategy That's Winning in 2026 | 2026-03-11 | [View source](https://www.youtube.com/watch?v=WBnCNpp-i0M&t=10s) |
 
 ### Source Notes
 
@@ -205,11 +205,11 @@
 
 **Key Takeaway:** Community platforms like Reddit are high-signal distribution channels because users are already discussing pain points.
 
-#### 4. Ross Simmonds on Community-Led Content Distribution (Podcast)
+#### 4. The Reddit Strategy That's Winning in 2026
 
-**Annotation:** In this podcast, Ross discusses how B2B SaaS companies can identify niche communities, build trust, and use content to generate demand.
+**Annotation:** In this video, Ross explains how brands can use Reddit strategically in 2026 by understanding community behavior, participating with value, and treating Reddit as both a discovery and trust-building channel.
 
-**Key Takeaway:** Community trust compounds over time and creates stronger long-term demand than paid campaigns.
+**Key Takeaway:** Reddit works best when brands focus on authentic participation, community relevance, and long-term visibility rather than short-term promotion.
 
 
 ## Rand Fishkin
