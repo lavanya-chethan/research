@@ -332,3 +332,46 @@
 **Annotation:** In this podcast, Amanda discusses how marketers can identify high-signal communities, analyze customer language, and use those insights for better content and positioning.
 
 **Key Takeaway:** Communities like Reddit reveal authentic customer pain points that can improve product messaging and content strategy.
+
+
+## Ahsan Zahid
+
+**Role:** Growth Marketer, Reddit Marketing Practitioner  
+**Company:** Independent Consultant
+
+**Why Selected:** Ahsan Zahid regularly shares practical content focused on Reddit marketing, startup growth, and community-led acquisition. His content is highly relevant because it covers hands-on Reddit strategies such as personal branding, organic growth, subreddit participation, and trust-building for founders and SaaS businesses.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | Ahsan Zahid LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/ahsan-zahid-335629219/) |
+| 2 | Personal Branding Through Reddit (LinkedIn Post) | 2026-04-18 | [View source](https://www.linkedin.com/posts/ahsan-zahid-335629219_personalbranding-redditmarketing-creatoreconomy-activity-7414001031916969986-iGxi/) |
+| 3 | Why Reddit Marketing Works for Startups (LinkedIn Post) | 2026-03-07 | [View source](https://www.linkedin.com/posts/ahsan-zahid-335629219_redditmarketing-startups-growthmarketing-activity-7402156675425898496/) |
+| 4 | Community-Led Growth on Reddit (LinkedIn Post) | 2026-01-29 | [View source](https://www.linkedin.com/posts/ahsan-zahid-335629219_communitygrowth-redditstrategy-organicgrowth-activity-7386729805839183872/) |
+
+### Source Notes
+
+#### 1. Ahsan Zahid LinkedIn Profile
+
+**Annotation:** Ahsan’s profile and posts focus heavily on Reddit growth, founder-led branding, and practical startup marketing frameworks.
+
+**Key Takeaway:** Reddit can be a powerful organic growth channel when approached with consistency and authenticity.
+
+#### 2. Personal Branding Through Reddit
+
+**Annotation:** This post explains how founders can use Reddit to establish credibility and build personal brands by participating in niche communities.
+
+**Key Takeaway:** Personal branding on Reddit grows through helpful contributions, not self-promotion.
+
+#### 3. Why Reddit Marketing Works for Startups
+
+**Annotation:** A breakdown of why Reddit is effective for startup growth, including audience targeting, trust-building, and low-cost acquisition.
+
+**Key Takeaway:** Reddit allows startups to directly reach highly specific, problem-aware audiences.
+
+#### 4. Community-Led Growth on Reddit
+
+**Annotation:** A practical post about using Reddit as a community-led growth engine by understanding subreddit behavior and contributing value consistently.
+
+**Key Takeaway:** Trust and relevance are the two strongest growth levers on Reddit.
