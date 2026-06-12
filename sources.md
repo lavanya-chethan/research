@@ -138,8 +138,8 @@
 | # | Title | Date | Link |
 |---|---|---|---|
 | 1 | David Quaid LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/davidquaid/) |
-| 2 | Reddit Marketing: How to Grow on Reddit Without Getting Banned | 2025-08-14 | [View source](https://www.inboundjunction.com/blog/reddit-marketing) |
-| 3 | Reddit Ads for SaaS: A Practical Guide | 2025-11-09 | [View source](https://www.inboundjunction.com/blog/reddit-ads-guide) |
+| 2 | SaaS and SEO app founders — Reddit is NOT your marketing channel| 2026-05-06 | [View source](https://www.linkedin.com/feed/update/urn:li:activity:7468037229865668608?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw) |
+| 3 | Top SEO Experts of 2026| 2026-01-31 | [View source](https://www.linkedin.com/pulse/top-seo-experts-2026-david-quaid-deike/?trackingId=qwD8uiHYQy%2BOt185qmKjEQ%3D%3D) |
 | 4 | David Quaid On Bing, Backlinks & Ranking Fast | 2025-04-22 | [View source](https://www.youtube.com/watch?v=VcVgOMF-r_k) |
 
 ### Source Notes
@@ -150,17 +150,17 @@
 
 **Key Takeaway:** Reddit success depends on understanding each subreddit’s unique culture before participating.
 
-#### 2. Reddit Marketing: How to Grow on Reddit Without Getting Banned
+#### 2. SaaS and SEO app founders — Reddit is NOT your marketing channel
 
-**Annotation:** This article explains safe and sustainable ways to build credibility on Reddit, avoid bans, and generate organic engagement.
+**Annotation:** In this LinkedIn post, David argues that SaaS and SEO app founders should not treat Reddit as a direct promotional channel. Instead, he frames Reddit as a place where brands must understand community intent, avoid shallow marketing tactics, and earn attention through relevance.
 
-**Key Takeaway:** Promotion without community trust usually fails and can damage brand reputation.
+**Key Takeaway:** Reddit is not a simple broadcast channel; founders need to respect community context and use Reddit for learning, trust-building, and careful participation before expecting marketing results.
 
-#### 3. Reddit Ads for SaaS: A Practical Guide
+#### 3. Top SEO Experts of 2026
 
-**Annotation:** A step-by-step guide on using Reddit Ads for B2B SaaS, covering targeting, ad creatives, and campaign optimization.
+**Annotation:** This article highlights leading SEO experts and positions David within the broader SEO and growth marketing landscape. It adds context to his credibility beyond Reddit marketing by connecting his work to search strategy, organic visibility, and expert-led growth.
 
-**Key Takeaway:** Reddit Ads work best when paired with organic community participation for trust-building.
+**Key Takeaway:** David's Reddit marketing perspective is strengthened by his broader SEO expertise, especially around organic visibility, audience intent, and long-term growth strategy.
 
 #### 4. David Quaid On Bing, Backlinks & Ranking Fast
 
