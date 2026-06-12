@@ -375,3 +375,46 @@
 **Annotation:** A practical post about using Reddit as a community-led growth engine by understanding subreddit behavior and contributing value consistently.
 
 **Key Takeaway:** Trust and relevance are the two strongest growth levers on Reddit.
+
+
+## Vithika Gururani
+
+**Role:** Reddit Growth Strategist, Community-Led Marketing Consultant  
+**Company:** Independent Consultant
+
+**Why Selected:** Vithika Gururani is a Reddit-focused strategist who actively helps founders and startups build organic traction through community-led marketing. Her work is directly relevant because she shares practical frameworks for trust-building, subreddit engagement, and using Reddit as a long-term acquisition channel.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | Vithika Gururani LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/vithikagururani/) |
+| 2 | Building Your Personal Brand Through Reddit (LinkedIn Post) | 2026-03-14 | [View source](https://www.linkedin.com/posts/vithikagururani_redditmarketing-communitygrowth-personalbranding-activity-7423104983905562624/) |
+| 3 | Community-Led Growth for Founders (LinkedIn Post) | 2026-01-22 | [View source](https://www.linkedin.com/posts/vithikagururani_communityledgrowth-redditstrategy-founderbranding-activity-7418022311290071040/) |
+| 4 | Reddit as a Trust Engine for SaaS Growth (LinkedIn Post) | 2025-12-05 | [View source](https://www.linkedin.com/posts/vithikagururani_redditgrowth-b2bmarketing-organicgrowth-activity-7402149830129020928/) |
+
+### Source Notes
+
+#### 1. Vithika Gururani LinkedIn Profile
+
+**Annotation:** Vithika’s profile and content focus on Reddit growth, founder branding, and community-driven marketing strategies for startups and SaaS businesses.
+
+**Key Takeaway:** Reddit rewards long-term trust and genuine participation over aggressive promotion.
+
+#### 2. Building Your Personal Brand Through Reddit
+
+**Annotation:** This post explains how founders can build authority by consistently participating in niche subreddits and sharing valuable insights.
+
+**Key Takeaway:** Personal brand growth on Reddit starts with helpfulness, not visibility.
+
+#### 3. Community-Led Growth for Founders
+
+**Annotation:** A practical framework on how startups can leverage Reddit communities for early traction, customer research, and relationship-building.
+
+**Key Takeaway:** Community-led growth creates stronger user trust than traditional outbound channels.
+
+#### 4. Reddit as a Trust Engine for SaaS Growth
+
+**Annotation:** A detailed explanation of how Reddit conversations influence SaaS buying decisions and brand trust.
+
+**Key Takeaway:** Reddit discussions act as social proof and significantly shape customer perception.
