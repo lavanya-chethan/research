@@ -96,7 +96,7 @@
 |---|---|---|---|
 | 1 | Ann Smarty LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/annsmarty/) |
 | 2 | Smarty.Marketing Blog | Accessed on 2026-06-12 | [View source](https://smarty.marketing/blog/) |
-| 3 | How to Build a Community Around Your Brand | 2025-09-18 | [View source](https://smarty.marketing/build-community-brand/) |
+| 3 | So, How do You Fix Your Reddit Reputation? | 2026-06-03 | [View source](https://www.linkedin.com/pulse/so-how-do-you-fix-your-reddit-reputation-ann-smarty-ze2bc/?trackingId=vyFZg0BJRiqEiO1ggwmnFg%3D%3D) |
 | 4 | Search Engine Journal Author Profile | Accessed on 2026-06-12 | [View source](https://www.searchenginejournal.com/author/ann-smarty/) |
 
 ### Source Notes
@@ -113,11 +113,11 @@
 
 **Key Takeaway:** User-generated discussions are a powerful channel for organic brand visibility.
 
-#### 3. How to Build a Community Around Your Brand
+#### 3. So, How do You Fix Your Reddit Reputation?
 
-**Annotation:** This article explains how brands can create sustainable communities through valuable participation, trust-building, and consistent audience interaction.
+**Annotation:** This article explains how brands can repair and improve their Reddit reputation by understanding existing community sentiment, responding constructively, and building trust through transparent, helpful participation.
 
-**Key Takeaway:** Long-term community trust is built through contribution and consistency, not one-off campaigns.
+**Key Takeaway:** Reddit reputation is shaped by authentic community behavior over time, so brands need to listen first, address concerns honestly, and contribute value before trying to promote themselves.
 
 #### 4. Search Engine Journal Author Profile
 
