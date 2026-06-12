@@ -117,3 +117,46 @@
 **Annotation:** Ann’s articles on Search Engine Journal provide additional insights into SEO, content ecosystems, and community-driven search visibility.
 
 **Key Takeaway:** Search visibility increasingly depends on real conversations and community mentions, making Reddit and similar platforms important for modern brand discovery.
+
+
+## David Quaid
+
+**Role:** Reddit Marketing Consultant, Growth Strategist  
+**Company:** InboundJunction
+
+**Why Selected:** David Quaid is one of the few specialists focused directly on Reddit marketing. His expertise spans Reddit Ads, organic subreddit growth, and community-first customer acquisition strategies. His practical work with startups and SaaS businesses makes him highly relevant for understanding Reddit as a B2B growth channel.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | David Quaid LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/davidquaid/) |
+| 2 | Reddit Marketing: How to Grow on Reddit Without Getting Banned | 2025-08-14 | [View source](https://www.inboundjunction.com/blog/reddit-marketing) |
+| 3 | Reddit Ads for SaaS: A Practical Guide | 2025-11-09 | [View source](https://www.inboundjunction.com/blog/reddit-ads-guide) |
+| 4 | David Quaid on Reddit Growth (Podcast Interview) | 2025-04-22 | [View source](https://www.youtube.com/watch?v=YzjP9fYvB4Y) |
+
+### Source Notes
+
+#### 1. David Quaid LinkedIn Profile
+
+**Annotation:** David’s LinkedIn profile and content showcase practical Reddit growth strategies, subreddit targeting, and lessons from real Reddit campaigns.
+
+**Key Takeaway:** Reddit success depends on understanding each subreddit’s unique culture before participating.
+
+#### 2. Reddit Marketing: How to Grow on Reddit Without Getting Banned
+
+**Annotation:** This article explains safe and sustainable ways to build credibility on Reddit, avoid bans, and generate organic engagement.
+
+**Key Takeaway:** Promotion without community trust usually fails and can damage brand reputation.
+
+#### 3. Reddit Ads for SaaS: A Practical Guide
+
+**Annotation:** A step-by-step guide on using Reddit Ads for B2B SaaS, covering targeting, ad creatives, and campaign optimization.
+
+**Key Takeaway:** Reddit Ads work best when paired with organic community participation for trust-building.
+
+#### 4. David Quaid on Reddit Growth (Podcast Interview)
+
+**Annotation:** In this interview, David discusses how startups can use Reddit for customer acquisition, market research, and brand positioning.
+
+**Key Takeaway:** Reddit is both a growth channel and a customer intelligence platform for SaaS companies.
