@@ -289,3 +289,46 @@
 **Annotation:** Lars explains how community-driven conversations impact search rankings and how user-generated content influences brand discovery.
 
 **Key Takeaway:** Reddit discussions increasingly act as trust signals in both traditional search and AI-generated search results.
+
+
+## Amanda Natividad
+
+**Role:** VP of Marketing, Audience Research & Content Strategist  
+**Company:** SparkToro
+
+**Why Selected:** Amanda Natividad is one of the strongest voices in audience research, content distribution, and zero-click marketing. Her work is highly relevant to Reddit marketing because she focuses on understanding where audiences gather, how they engage in communities, and how marketers can build trust before asking for conversions.
+
+### Sources
+
+| # | Title | Date | Link |
+|---|---|---|---|
+| 1 | Amanda Natividad LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/amandanat/) |
+| 2 | SparkToro Blog – Amanda Natividad Author Profile | Accessed on 2026-06-12 | [View source](https://sparktoro.com/blog/author/amanda-natividad/) |
+| 3 | The Zero-Click Content Playbook | 2025-09-05 | [View source](https://sparktoro.com/blog/the-zero-click-content-playbook/) |
+| 4 | Amanda Natividad on Audience Research & Community Marketing (Podcast) | 2025-04-09 | [View source](https://www.youtube.com/watch?v=2V8vM4eY0rY) |
+
+### Source Notes
+
+#### 1. Amanda Natividad LinkedIn Profile
+
+**Annotation:** Amanda regularly shares practical strategies on audience research, content distribution, and community-first marketing. Her posts often emphasize how brands should meet audiences where they already spend time.
+
+**Key Takeaway:** Strong marketing starts with understanding audience behavior before creating campaigns.
+
+#### 2. SparkToro Blog – Amanda Natividad Author Profile
+
+**Annotation:** Her articles on SparkToro focus on audience intelligence, zero-click marketing, and trust-based content strategies that align well with Reddit community engagement.
+
+**Key Takeaway:** Visibility without immediate conversion builds stronger long-term trust.
+
+#### 3. The Zero-Click Content Playbook
+
+**Annotation:** This playbook explains how marketers can provide value upfront without forcing clicks, a strategy highly aligned with Reddit’s contribution-first culture.
+
+**Key Takeaway:** Giving value before asking for anything increases trust and long-term audience engagement.
+
+#### 4. Amanda Natividad on Audience Research & Community Marketing (Podcast)
+
+**Annotation:** In this podcast, Amanda discusses how marketers can identify high-signal communities, analyze customer language, and use those insights for better content and positioning.
+
+**Key Takeaway:** Communities like Reddit reveal authentic customer pain points that can improve product messaging and content strategy.
