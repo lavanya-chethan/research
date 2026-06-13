@@ -269,7 +269,7 @@
 | 1 | Lars Lofgren Official Website | Accessed on 2026-06-12 | [View source](https://larslofgren.com/) |
 | 2 | About Lars Lofgren | Accessed on 2026-06-12 | [View source](https://larslofgren.com/about-me/) |
 | 3 | BuzzStream Podcast: Reddit, Spam & Online Communities | 2025-06-10 | [View source](https://www.buzzstream.com/blog/scams-spam-podcast/) |
-| 4 | Lars Lofgren on SEO & Community Trust (Podcast) | 2025-04-14 | [View source](https://www.youtube.com/watch?v=6X7L6sB2B2M) |
+| 4 | Lars Lofgren on Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks(Podcast) | 2026-05-14 | [View source](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s) |
 
 ### Source Notes
 
@@ -291,11 +291,11 @@
 
 **Key Takeaway:** Brands need to understand Reddit’s moderation and culture to avoid reputational damage.
 
-#### 4. Lars Lofgren on SEO & Community Trust (Podcast)
+#### 4. Lars Lofgren on Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks(Podcast)
 
-**Annotation:** Lars explains how community-driven conversations impact search rankings and how user-generated content influences brand discovery.
+**Annotation:** In this podcast, Lars discusses the darker side of Reddit ecosystems, including astroturfing, corrupt moderation, and coordinated attacks. The source adds context on how manipulation and moderation issues can affect brand trust, community integrity, and online reputation.
 
-**Key Takeaway:** Reddit discussions increasingly act as trust signals in both traditional search and AI-generated search results.
+**Key Takeaway:** Brands need to understand Reddit's moderation dynamics and manipulation risks before using the platform, because coordinated behavior can distort community trust and damage reputation.
 
 
 ## Amanda Natividad
