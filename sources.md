@@ -395,33 +395,33 @@
 
 | # | Title | Date | Link |
 |---|---|---|---|
-| 1 | Vithika Gururani LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/vithikagururani/) |
-| 2 | Building Your Personal Brand Through Reddit (LinkedIn Post) | 2026-03-14 | [View source](https://www.linkedin.com/posts/vithikagururani_redditmarketing-communitygrowth-personalbranding-activity-7423104983905562624/) |
-| 3 | Community-Led Growth for Founders (LinkedIn Post) | 2026-01-22 | [View source](https://www.linkedin.com/posts/vithikagururani_communityledgrowth-redditstrategy-founderbranding-activity-7418022311290071040/) |
-| 4 | Reddit as a Trust Engine for SaaS Growth (LinkedIn Post) | 2025-12-05 | [View source](https://www.linkedin.com/posts/vithikagururani_redditgrowth-b2bmarketing-organicgrowth-activity-7402149830129020928/) |
+| 1 | Vithika Gururani LinkedIn Profile | Accessed on 2026-06-13 | [View source](https://in.linkedin.com/in/vithikagururani) |
+| 2 | 11,000 People Are Here. Let’s Do Something Real With It | 2026-05-03 | [View source](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB) |
+| 3 | I Have 10,000 Followers. And My Posts Barely Reach People | 2026-05-26 | [View source](https://www.linkedin.com/posts/vithikagururani_i-have-10000-followers-and-my-posts-barely-activity-7444254654789681153-m8_f) |
+| 4 | 2026 Goals – Reddit Strategist Journey | 2026-01-01 | [View source](https://www.linkedin.com/posts/vithikagururani_personalgrowth-2026goals-redditstrategist-activity-7412102882902220801-BqEh) |
 
 ### Source Notes
 
 #### 1. Vithika Gururani LinkedIn Profile
 
-**Annotation:** Vithika’s profile and content focus on Reddit growth, founder branding, and community-driven marketing strategies for startups and SaaS businesses.
+**Annotation:** Vithika's LinkedIn profile presents her work as a Reddit strategist focused on helping founders and startups build visibility, community trust, and organic growth through Reddit-led marketing.
 
-**Key Takeaway:** Reddit rewards long-term trust and genuine participation over aggressive promotion.
+**Key Takeaway:** Her positioning reinforces Reddit as a community-first growth channel where trust, consistency, and audience understanding matter more than direct promotion.
 
-#### 2. Building Your Personal Brand Through Reddit
+#### 2. 11,000 People Are Here. Let’s Do Something Real With It
 
-**Annotation:** This post explains how founders can build authority by consistently participating in niche subreddits and sharing valuable insights.
+**Annotation:** In this LinkedIn post, Vithika reflects on reaching an audience of 11,000 people and emphasizes turning reach into meaningful community action rather than treating follower count as the end goal.
 
-**Key Takeaway:** Personal brand growth on Reddit starts with helpfulness, not visibility.
+**Key Takeaway:** Audience size only becomes valuable when it is used to create real conversations, community value, and stronger relationships.
 
-#### 3. Community-Led Growth for Founders
+#### 3. I Have 10,000 Followers. And My Posts Barely Reach People
 
-**Annotation:** A practical framework on how startups can leverage Reddit communities for early traction, customer research, and relationship-building.
+**Annotation:** This post discusses the gap between follower count and actual content reach, showing why creators and marketers need to focus on genuine engagement rather than vanity metrics.
 
-**Key Takeaway:** Community-led growth creates stronger user trust than traditional outbound channels.
+**Key Takeaway:** Large audiences do not guarantee impact; trust, relevance, and consistent engagement are stronger indicators of community strength.
 
-#### 4. Reddit as a Trust Engine for SaaS Growth
+#### 4. 2026 Goals – Reddit Strategist Journey
 
-**Annotation:** A detailed explanation of how Reddit conversations influence SaaS buying decisions and brand trust.
+**Annotation:** In this post, Vithika outlines her 2026 goals and frames her journey around growing as a Reddit strategist, building expertise, and helping others use Reddit more effectively.
 
-**Key Takeaway:** Reddit discussions act as social proof and significantly shape customer perception.
+**Key Takeaway:** Long-term expertise in Reddit marketing is built through deliberate practice, public learning, and consistent community-focused execution.
