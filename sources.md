@@ -310,9 +310,9 @@
 | # | Title | Date | Link |
 |---|---|---|---|
 | 1 | Amanda Natividad LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/amandanat/) |
-| 2 | SparkToro Blog – Amanda Natividad Author Profile | Accessed on 2026-06-12 | [View source](https://sparktoro.com/blog/author/amanda-natividad/) |
-| 3 | The Zero-Click Content Playbook | 2025-09-05 | [View source](https://sparktoro.com/blog/the-zero-click-content-playbook/) |
-| 4 | Amanda Natividad on Audience Research & Community Marketing (Podcast) | 2025-04-09 | [View source](https://www.youtube.com/watch?v=2V8vM4eY0rY) |
+| 2 | SparkToro Blog – The Click Is Now Optional. Here’s What Isn’t.| Accessed on 2026-06-12 | [View source](https://sparktoro.com/blog/zero-click-search-what-still-works/) |
+| 3 | How We’d Market to Software Developers at Startups | 2026-03-06 | [View source](https://sparktoro.com/blog/how-wed-market-to-software-developers-at-startups/) |
+| 4 | Amanda Natividad on Zero Click Search Is Now the Norm — How to Win Anyway (Podcast) | 2026-06-06 | [View source](https://www.youtube.com/watch?v=yepb95llLro&list=PLhm-o-a72T295jrL_jlnvk22W4Xul2PNc) |
 
 ### Source Notes
 
@@ -322,23 +322,23 @@
 
 **Key Takeaway:** Strong marketing starts with understanding audience behavior before creating campaigns.
 
-#### 2. SparkToro Blog – Amanda Natividad Author Profile
+#### 2. SparkToro Blog – The Click Is Now Optional. Here’s What Isn’t.
 
-**Annotation:** Her articles on SparkToro focus on audience intelligence, zero-click marketing, and trust-based content strategies that align well with Reddit community engagement.
+**Annotation:** This SparkToro article explains how zero-click behavior changes the way marketers should think about visibility, trust, and audience engagement. It emphasizes that clicks are no longer the only measure of marketing impact, especially when audiences consume value directly on platforms.
 
-**Key Takeaway:** Visibility without immediate conversion builds stronger long-term trust.
+**Key Takeaway:** Marketers need to create value where audiences already are, because brand influence can happen even when users do not click through to a website.
 
-#### 3. The Zero-Click Content Playbook
+#### 3. How We’d Market to Software Developers at Startups
 
-**Annotation:** This playbook explains how marketers can provide value upfront without forcing clicks, a strategy highly aligned with Reddit’s contribution-first culture.
+**Annotation:** This article outlines how SparkToro would approach marketing to software developers at startups by studying audience behavior, identifying trusted channels, and tailoring messaging to the communities developers already rely on.
 
-**Key Takeaway:** Giving value before asking for anything increases trust and long-term audience engagement.
+**Key Takeaway:** Effective community and audience marketing starts with understanding where a specific audience spends time, what they trust, and how they prefer to learn.
 
-#### 4. Amanda Natividad on Audience Research & Community Marketing (Podcast)
+#### 4. Amanda Natividad on Zero Click Search Is Now the Norm — How to Win Anyway (Podcast)
 
-**Annotation:** In this podcast, Amanda discusses how marketers can identify high-signal communities, analyze customer language, and use those insights for better content and positioning.
+**Annotation:** In this podcast, Amanda discusses why zero-click search has become normal and how marketers can still win by building trust, creating platform-native value, and measuring influence beyond website traffic.
 
-**Key Takeaway:** Communities like Reddit reveal authentic customer pain points that can improve product messaging and content strategy.
+**Key Takeaway:** Zero-click marketing rewards helpful, audience-first content that builds recognition and trust before a click or conversion happens.
 
 
 ## Ahsan Zahid
