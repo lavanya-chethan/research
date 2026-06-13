@@ -225,8 +225,8 @@
 |---|---|---|---|
 | 1 | Rand Fishkin LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/randfishkin/) |
 | 2 | SparkToro Blog | Accessed on 2026-06-12 | [View source](https://sparktoro.com/blog/) |
-| 3 | Why Reddit Is Dominating Search Results | 2025-07-08 | [View source](https://sparktoro.com/blog/why-reddit-is-dominating-google-search-results/) |
-| 4 | Rand Fishkin on Audience Research & Community Discovery (Podcast) | 2025-03-21 | [View source](https://www.youtube.com/watch?v=yo0nJ9j6QZw) |
+| 3 | Zero Click World: Marketing Shifts to Tech Platforms | 2026-06-06 | [View source](https://www.linkedin.com/posts/randfishkin_no-person-in-my-feed-today-were-not-saying-activity-7468065715309334528-NbxM/) |
+| 4 | Zero Click Searches Pass 66% | 2026-04-21 | [View source](https://www.youtube.com/watch?v=OSGp4P29jBg) |
 
 ### Source Notes
 
@@ -242,17 +242,17 @@
 
 **Key Takeaway:** Audience research should guide channel selection, including niche communities like Reddit.
 
-#### 3. Why Reddit Is Dominating Search Results
+#### 3. Zero Click World: Marketing Shifts to Tech Platforms
 
-**Annotation:** This article analyzes how Reddit has become a dominant source of trusted information in search results and why marketers should pay attention.
+**Annotation:** In this LinkedIn post, Rand explains how marketing is shifting toward a zero-click world where major tech platforms increasingly keep attention within their own ecosystems. The source highlights why marketers need to understand platform behavior, audience discovery, and visibility beyond traditional website traffic.
 
-**Key Takeaway:** Reddit’s rise in search visibility makes it a critical platform for brand awareness and trust-building.
+**Key Takeaway:** Marketers need to build visibility where audiences already spend time, because influence and discovery often happen before anyone clicks through to a brand-owned website.
 
-#### 4. Rand Fishkin on Audience Research & Community Discovery (Podcast)
+#### 4. Zero Click Searches Pass 66%
 
-**Annotation:** In this discussion, Rand explains how marketers can identify where target audiences gather and how to use those communities for deeper customer understanding.
+**Annotation:** In this video, Rand discusses the rise of zero-click searches and how search behavior is changing as more queries are answered directly on platforms. This gives context for why community mentions, platform-native content, and audience trust matter for modern discovery.
 
-**Key Takeaway:** Communities like Reddit provide raw, authentic customer insights that can improve product positioning and content strategy.
+**Key Takeaway:** As zero-click behavior grows, brands need to earn attention and trust inside search results, communities, and social platforms rather than relying only on website visits.
 
 
 ## Lars Lofgren
