@@ -181,7 +181,7 @@
 | # | Title | Date | Link |
 |---|---|---|---|
 | 1 | Ross Simmonds LinkedIn Profile | Accessed on 2026-06-12 | [View source](https://www.linkedin.com/in/rosssimmonds/) |
-| 2 | Create Once, Distribute Forever | Accessed on 2026-06-12 | [View source](https://foundationinc.co/lp/create-once-distribute-forever/) |
+| 2 | How to Win on Reddit: A Proven Strategy for B2B Marketers, Founders, and SEOs | Accessed on 2025-08-20 | [View source](https://www.linkedin.com/pulse/how-win-reddit-proven-strategy-b2b-marketers-founders-ross-simmonds-gpwje/?trackingId=XqXeaVVzThSle6K%2F8XiyEw%3D%3D) |
 | 3 | Why Content Distribution Matters More Than Ever | 2025-10-05 | [View source](https://foundationinc.co/lab/content-distribution/) |
 | 4 | The Reddit Strategy That's Winning in 2026 | 2026-03-11 | [View source](https://www.youtube.com/watch?v=WBnCNpp-i0M&t=10s) |
 
@@ -193,11 +193,11 @@
 
 **Key Takeaway:** Distribution is often more important than creation—great content needs the right communities to succeed.
 
-#### 2. Create Once, Distribute Forever
+#### 2. How to Win on Reddit: A Proven Strategy for B2B Marketers, Founders, and SEOs
 
-**Annotation:** Ross’s book and framework explain how to maximize content reach across multiple channels, including communities and forums like Reddit.
+**Annotation:** This article explains Ross's approach to using Reddit as a strategic growth channel for B2B marketers, founders, and SEOs. It focuses on understanding subreddit culture, contributing useful insights, and building visibility through community-aligned participation.
 
-**Key Takeaway:** Content should be repurposed and distributed strategically across audience-rich platforms.
+**Key Takeaway:** Winning on Reddit requires relevance, patience, and trust-building; brands need to participate like community members before expecting Reddit to become a growth channel.
 
 #### 3. Why Content Distribution Matters More Than Ever
 
