@@ -6,6 +6,8 @@
 
 **YouTube Link:** https://www.youtube.com/watch?v=774ln001XZY
 
+**Publication Date:**    Feb 15, 2023
+
 ## Transcript
 
 welcome to icons in the making I'm your
