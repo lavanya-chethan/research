@@ -6,6 +6,8 @@
 
 **YouTube Link:** https://www.youtube.com/watch?v=f7fZyN1nn-U
 
+**Publication Date:** May 20, 2026
+
 ## Transcript
 
 Rand Fishkin, founder of Moz, founder of
