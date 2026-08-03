@@ -6,6 +6,8 @@
 
 **YouTube Link:** https://www.youtube.com/watch?v=1zQ3sVYmbCU
 
+**Publication Date:**   Jun 26, 2025
+
 ## Transcript
 
 Hey everyone, this is Josh with Aerops.
