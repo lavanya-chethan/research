@@ -6,6 +6,8 @@
 
 **YouTube Link:** https://www.youtube.com/watch?v=qoy6eBMifLU
 
+**Publication Date:** May 06, 2026
+
 ## Transcript
 
 [music]
