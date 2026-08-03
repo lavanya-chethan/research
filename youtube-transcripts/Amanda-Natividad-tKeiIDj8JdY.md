@@ -6,6 +6,8 @@
 
 **YouTube Link:** https://www.youtube.com/watch?v=tKeiIDj8JdY
 
+**Publication Date:** Jun 13, 2026
+
 ## Transcript
 
 One thing you've pointed out is that
