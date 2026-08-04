@@ -4,7 +4,7 @@
 
 This playbook presents a 30-day implementation framework for organic Reddit marketing by early-stage and growth-stage B2B SaaS teams. The 30-day structure is my proposed implementation timeline, developed by synthesizing recommendations from multiple experts. Its objective is to learn from authentic customer conversations, build trust through valuable community participation, and evaluate whether Reddit can become a qualified demand-generation channel. Because results depend on factors such as product-market fit, community relevance, and subreddit rules, this playbook does not guarantee rankings, AI citations, leads, or revenue.
 
-This playbook is intended for ethical Reddit marketing. Always participate using transparent accounts, accurate product claims, and by following each subreddit's published rules. Avoid manipulating discussions through fake accounts, coordinated promotion, or other deceptive practices. Lars Lofgren's discussion highlights how these tactics can harm brand credibility, online reputation, and visibility across both search engines and AI-powered platforms. **(Source: Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, Published: 06.05.2026.)**
+This playbook is intended for ethical Reddit marketing. Always participate using transparent accounts, accurate product claims, and by following each subreddit's published rules. Avoid manipulating discussions through fake accounts, coordinated promotion, or other deceptive practices. Lars Lofgren's discussion highlights how these tactics can harm brand credibility, online reputation, and visibility across both search engines and AI-powered platforms. **(Source:  [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s))**
 
 ## Citation standard
 
@@ -157,10 +157,8 @@ This idea is my own and is therefore **not based on a specific external source**
 
 Compare the number of customer-informed product improvements, content ideas, or marketing initiatives implemented **before and after** adopting the Evidence-to-Action Log. Review the results after 30 days to determine whether the log improves collaboration between Product and Marketing teams and increases the number of actionable customer insights.
 
-
-
-
 ## Weaknesses of this playbook
+
 This playbook is intended to provide a practical framework for ethical Reddit marketing rather than a universally applicable methodology. The following limitations should be considered before applying it across different products, industries, or communities.
 
 - This playbook is based primarily on expert opinions, LinkedIn posts, and interviews rather than controlled experiments. As a result, it should be treated as a practical implementation framework rather than evidence that the same approach will produce consistent business results for every B2B SaaS company.
@@ -168,7 +166,7 @@ This playbook is intended to provide a practical framework for ethical Reddit ma
 - The playbook assumes that the team can participate consistently and provide genuine value to Reddit communities. Organizations that treat Reddit only as a promotional channel are unlikely to achieve the same outcomes.
 - This playbook should be used alongside Reddit's current platform policies and each subreddit's rules. Teams are responsible for ensuring that their participation complies with applicable community guidelines, legal requirements, and organizational policies.
 - Visibility in AI-generated answers or search results changes over time and cannot be reliably attributed to Reddit activity alone. For that reason, this playbook treats AI visibility as an observation rather than a primary success metric.
--  A 30-day implementation period is sufficient for evaluating community fit, engagement quality, and customer insights, but it may be too short to demonstrate long-term business outcomes such as pipeline growth, customer acquisition, or revenue impact.
+- A 30-day implementation period is sufficient for evaluating community fit, engagement quality, and customer insights, but it may be too short to demonstrate long-term business outcomes such as pipeline growth, customer acquisition, or revenue impact.
 
 
 
@@ -179,4 +177,3 @@ Based on the sources included in this repository, I would not rely on **Vithika 
 The material I reviewed focuses primarily on community building and audience engagement on LinkedIn rather than Reddit-specific execution. It does not provide a repeatable Reddit operating process, subreddit-specific examples, or evidence of B2B SaaS implementation that could be directly incorporated into this playbook (source: [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 
 This assessment reflects the relevance of the available material to the objectives of this playbook rather than the author's overall expertise or credibility. Her work may still be valuable for understanding community engagement and audience communication in other contexts.
-
