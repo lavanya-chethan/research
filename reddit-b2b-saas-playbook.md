@@ -161,6 +161,7 @@ Compare the number of customer-informed product improvements, content ideas, or 
 
 
 ## Weaknesses of this playbook
+This playbook is intended to provide a practical framework for ethical Reddit marketing rather than a universally applicable methodology. The following limitations should be considered before applying it across different products, industries, or communities.
 
 - This playbook is based primarily on expert opinions, LinkedIn posts, and interviews rather than controlled experiments. As a result, it should be treated as a practical implementation framework rather than evidence that the same approach will produce consistent business results for every B2B SaaS company.
 - Every subreddit has its own rules, moderation style, and community expectations. An approach that is welcomed in one community may be removed, ignored, or negatively received in another. Teams should therefore validate community rules before applying any recommendation in this playbook.
@@ -171,10 +172,11 @@ Compare the number of customer-informed product improvements, content ideas, or 
 
 
 
-## Who I would not recommend following as a primary source for this SOP
+#### Who I Would Not Recommend as a Primary Source for This Playbook
 
-I would not use **Vithika Gururani as a primary authority for B2B SaaS Reddit execution** based on the material collected here. The saved post is chiefly about LinkedIn audience/community reflection and does not supply a tested Reddit operating method, subreddit-specific evidence, or SaaS outcomes (source: [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)). This is a judgment about fit and evidence in this repository, not a judgment about her overall credibility; her material may still be useful for community-minded communication.
+Based on the sources included in this repository, I would not rely on **Vithika Gururani** as a primary source when developing a Reddit marketing SOP for B2B SaaS.
 
-## Source-quality note
+The material I reviewed focuses primarily on community building and audience engagement on LinkedIn rather than Reddit-specific execution. It does not provide a repeatable Reddit operating process, subreddit-specific examples, or evidence of B2B SaaS implementation that could be directly incorporated into this playbook (source: [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 
-The next improvement should be to add publication dates and timestamps to every YouTube transcript header, confirm that each `sources.md` entry matches the saved asset, and replace access dates with publication dates where available. This will make future revisions more auditable.
+This assessment reflects the relevance of the available material to the objectives of this playbook rather than the author's overall expertise or credibility. Her work may still be valuable for understanding community engagement and audience communication in other contexts.
+
