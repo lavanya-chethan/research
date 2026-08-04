@@ -75,23 +75,23 @@ Use this scorecard for the 30-day test. The metrics and thresholds are internal 
 
 
 
-## Where experts disagree
+## Where Experts Disagree
 
-
+The experts referenced in this playbook generally agree on the importance of authentic participation and community value. However, they differ in several strategic areas. Rather than selecting one viewpoint uncritically, I evaluated the available evidence and selected the approach that best aligns with ethical, sustainable Reddit marketing for B2B SaaS companies.
 
 ### 1. Is Reddit an acquisition channel or primarily a research channel?
 
 - **Ahsan Zahid recommends:** treating authentic Reddit engagement as a path to organic customer acquisition and long-term growth (source: [Ahsan Zahid, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/ahsan-zahid-335629219_most-startups-fail-on-reddit-for-one-simple-activity-7464792206734729217-sKvP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 - **Ann Smarty recommends:** using Reddit as an intelligence source for sentiment, pain points, and content ideas rather than defining it only as a promotion channel (source: [Ann Smarty, LinkedIn post, 10.06.2026](https://www.linkedin.com/posts/annsmarty_the-best-part-of-reddit-that-not-many-experts-activity-7470485449371697153-S8CT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
-- **Position taken:** start with Ann's research-first approach, then test acquisition only after useful participation has earned a place in the community. This combines Ann's intelligence-led use of Reddit with Ahsan's trust-before-promotion view (source: [Ann Smarty, LinkedIn post, 10.06.2026](https://www.linkedin.com/posts/annsmarty_the-best-part-of-reddit-that-not-many-experts-activity-7470485449371697153-S8CT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Ahsan Zahid, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/ahsan-zahid-335629219_most-startups-fail-on-reddit-for-one-simple-activity-7464792206734729217-sKvP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
+- **My Position:** start with Ann's research-first approach, then test acquisition only after useful participation has earned a place in the community. This combines Ann's intelligence-led use of Reddit with Ahsan's trust-before-promotion view (source: [Ann Smarty, LinkedIn post, 10.06.2026](https://www.linkedin.com/posts/annsmarty_the-best-part-of-reddit-that-not-many-experts-activity-7470485449371697153-S8CT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Ahsan Zahid, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/ahsan-zahid-335629219_most-startups-fail-on-reddit-for-one-simple-activity-7464792206734729217-sKvP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 
 
 
 ### 2. Should teams deliberately pursue AI visibility through Reddit?
 
 - **Olena Bomko recommends:** auditing AI visibility, locating relevant Reddit conversations, and adding valuable comments to open discussions (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
-- **Lars Lofgren recommends:** extreme caution because Reddit astroturfing, manipulated reviews, and compromised moderation can distort trust and create reputational harm (source: [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 14.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
-- **Position taken:** take the ethical middle ground: observe where the brand appears and make only transparent, useful contributions where permitted; never attempt to manufacture mentions or rankings. This preserves Olena's audit idea while following Lars's warning about manipulation risk (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 14.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
+- **Lars Lofgren highlights:** the risks of Reddit manipulation, including astroturfing, reputation damage, and the potential influence of manipulated discussions on search engines and AI-generated responses. (source: [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
+- **My Position:** take the ethical middle ground: observe where the brand appears and make only transparent, useful contributions where permitted; never attempt to manufacture mentions or rankings. This preserves Olena's audit idea while following Lars's warning about manipulation risk (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 14.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
 
 
 
@@ -99,32 +99,75 @@ Use this scorecard for the 30-day test. The metrics and thresholds are internal 
 
 - **Ross Simmonds recommends:** understanding community behaviour and participating with value, which implies adapting distribution to the community (source: [Ross Simmonds, *The Reddit Strategy That's Winning in 2026*, YouTube, 11.03.2026](https://www.youtube.com/watch?v=WBnCNpp-i0M&t=10s)).
 - **Olena Bomko recommends:** a repeatable discovery framework based on keywords, use cases, competitors, and related subreddits (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
-- **Position taken:** use Olena's framework to research systematically, but use Ross's community-specific approach for execution. This keeps discovery repeatable while preserving the community relevance Ross recommends (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Ross Simmonds, *The Reddit Strategy That's Winning in 2026*, YouTube, 11.03.2026](https://www.youtube.com/watch?v=WBnCNpp-i0M&t=10s)).
+- **My Position:** use Olena's framework to research systematically, but use Ross's community-specific approach for execution. This keeps discovery repeatable while preserving the community relevance Ross recommends (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Ross Simmonds, *The Reddit Strategy That's Winning in 2026*, YouTube, 11.03.2026](https://www.youtube.com/watch?v=WBnCNpp-i0M&t=10s)).
 
 
 
 ## What I rejected and why
 
-1. **Manufacturing product mentions, reviews, or favourable moderation.** I rejected this because it is deceptive, risks account/community sanctions, and undermines the trust the playbook is intended to build (source: [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 14.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
-2. **Using follower count or raw reach as the main success metric.** I rejected this because a large audience does not necessarily produce meaningful reach, relationships, or business impact (source: [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
-3. **Treating an AI-citation statistic as the business case for the channel.** I rejected this because the available post reports a third-party metric but the repository does not independently validate it or show that a SaaS company can reliably influence it (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
+During my research, I found several ideas and approaches that were discussed by different experts. After reviewing the available evidence, I chose not to include the following approaches in this playbook because they do not align with its objective of building sustainable, ethical Reddit marketing practices for B2B SaaS companies.
+
+**1. Manufacturing Product Mentions or Other Deceptive Promotion.**
+
+I chose not to include this approach because that relies on fake accounts, manufactured product mentions, deceptive reviews, or other forms of artificial community influence. These practices are inconsistent with the playbook's emphasis on transparency and create significant reputation and business risks.
+
+**Reason:** Lars Lofgren warns that manipulative Reddit practices can undermine trust, damage brand reputation, and distort public discussions.
+
+**Source:**  [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s).
+
+**2. Using Follower Count or Reach as the Primary Success Metric.**
+
+I chose not to include this approach because the idea of evaluating Reddit solely through follower count or reach because these metrics do not necessarily reflect meaningful engagement, customer learning, or business outcomes.
+
+**Reason:** This playbook prioritizes community quality, customer insights, and qualified conversations over vanity metrics.
+
+**Source:**  [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw).
+
+**3. Treating AI Visibility as Proof of Business Success.**
+
+I chose not to include this approach because the idea of using AI-generated citations or AI visibility as the primary justification for Reddit marketing.
+
+**Reason:** Although Reddit discussions may influence AI-generated responses, the available evidence does not demonstrate a direct or reliable relationship between AI visibility and measurable business outcomes such as qualified leads, customer acquisition, or revenue.
+
+**Source:**  [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw).
+
+## My Original Idea: Evidence-to-Action Log
+
+Create an internal **Evidence-to-Action Log** to capture every meaningful insight gathered from Reddit discussions. Each entry should include:
+
+- Reddit thread URL
+- Customer problem or question
+- Supporting customer quote
+- Recommended product, marketing, or content action
+- Owner
+- Due date
+- Outcome after 30 days
+
+Review the log once a month with both the Product and Marketing teams to decide which insights should be implemented, tested, or monitored further.
+
+### Why I Came Up with This Idea
+
+While reviewing the experts included in this research, I noticed that several of them explain **how to discover customer insights on Reddit** and **how to participate effectively in communities**. However, I did not find a structured process for ensuring that those insights are consistently tracked, assigned to the right teams, and converted into product or marketing improvements. I created the **Evidence-to-Action Log** to bridge that gap by providing a simple process for turning Reddit research into measurable business actions.
+
+### Why It Could Work
+
+This idea is my own and is therefore **not based on a specific external source**. It could work because it creates accountability, helps teams prioritize recurring customer needs, and ensures that valuable insights gathered from Reddit are translated into product improvements, content ideas, or marketing initiatives instead of being forgotten after the discussion ends.
+
+### How to Evaluate It
+
+Compare the number of customer-informed product improvements, content ideas, or marketing initiatives implemented **before and after** adopting the Evidence-to-Action Log. Review the results after 30 days to determine whether the log improves collaboration between Product and Marketing teams and increases the number of actionable customer insights.
 
 
 
-## My original idea: an Evidence-to-Action Log
-
-Create one internal log row for every meaningful Reddit insight: the thread URL, exact customer problem, supporting quote, proposed product/content action, owner, due date, and result after 30 days. Review it monthly with product and marketing together.
-
-This is an original idea, so it intentionally has no external source citation. It could work because it converts scattered social-listening observations into accountable experiments, preventing valuable customer language from being lost after a discussion ends. It should be tested against a simple baseline: compare the number of implemented customer-informed actions before and after adopting the log.
 
 ## Weaknesses of this playbook
 
-- The research base is primarily expert opinion, LinkedIn content, and interviews; it does not provide controlled evidence that the SOP will generate revenue for a particular SaaS product.
-- Subreddit rules, moderation practices, and audience sentiment vary materially. A tactic that is welcome in one community may be removed or disliked in another.
-- The repository does not contain independently verified publication dates and timestamps for every saved YouTube transcript. This playbook therefore relies only on the dated video entries that correspond to its cited transcripts.
-- The playbook does not substitute for checking Reddit's current policies, a subreddit's rules, privacy requirements, advertising disclosure obligations, or legal advice.
-- AI-search visibility is volatile and difficult to attribute. The playbook deliberately does not promise or optimize for a specific AI-citation outcome.
-- A 30-day window may be too short to establish trust or demonstrate B2B pipeline impact; it is appropriate for discovering community fit, not for declaring a channel proven.
+- This playbook is based primarily on expert opinions, LinkedIn posts, and interviews rather than controlled experiments. As a result, it should be treated as a practical implementation framework rather than evidence that the same approach will produce consistent business results for every B2B SaaS company.
+- Every subreddit has its own rules, moderation style, and community expectations. An approach that is welcomed in one community may be removed, ignored, or negatively received in another. Teams should therefore validate community rules before applying any recommendation in this playbook.
+- The playbook assumes that the team can participate consistently and provide genuine value to Reddit communities. Organizations that treat Reddit only as a promotional channel are unlikely to achieve the same outcomes.
+- This playbook should be used alongside Reddit's current platform policies and each subreddit's rules. Teams are responsible for ensuring that their participation complies with applicable community guidelines, legal requirements, and organizational policies.
+- Visibility in AI-generated answers or search results changes over time and cannot be reliably attributed to Reddit activity alone. For that reason, this playbook treats AI visibility as an observation rather than a primary success metric.
+-  A 30-day implementation period is sufficient for evaluating community fit, engagement quality, and customer insights, but it may be too short to demonstrate long-term business outcomes such as pipeline growth, customer acquisition, or revenue impact.
 
 
 
