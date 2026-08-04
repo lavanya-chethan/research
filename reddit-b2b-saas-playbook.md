@@ -141,6 +141,8 @@ I chose not to include this approach because the idea of using AI-generated cita
 
 ## My Original Idea: Evidence-to-Action Log
 
+During this research, I found that the experts provided valuable guidance on discovering customer insights and participating effectively in Reddit communities. However, I saw an opportunity to strengthen the implementation process by introducing an additional practice that helps teams consistently act on those insights. The following idea is my original contribution to this playbook.
+
 Create an internal **Evidence-to-Action Log** to capture every meaningful insight gathered from Reddit discussions. Each entry should include:
 
 - Reddit thread URL
@@ -171,8 +173,6 @@ This playbook is intended to provide a practical framework for ethical Reddit ma
 
 - This playbook is based primarily on expert opinions, LinkedIn posts, and interviews rather than controlled experiments. As a result, it should be treated as a practical implementation framework rather than evidence that the same approach will produce consistent business results for every B2B SaaS company.
 - Every subreddit has its own rules, moderation style, and community expectations. An approach that is welcomed in one community may be removed, ignored, or negatively received in another. Teams should therefore validate community rules before applying any recommendation in this playbook.
-- The playbook assumes that the team can participate consistently and provide genuine value to Reddit communities. Organizations that treat Reddit only as a promotional channel are unlikely to achieve the same outcomes.
-- This playbook should be used alongside Reddit's current platform policies and each subreddit's rules. Teams are responsible for ensuring that their participation complies with applicable community guidelines, legal requirements, and organizational policies.
 - Visibility in AI-generated answers or search results changes over time and cannot be reliably attributed to Reddit activity alone. For that reason, this playbook treats AI visibility as an observation rather than a primary success metric.
 - A 30-day implementation period is sufficient for evaluating community fit, engagement quality, and customer insights, but it may be too short to demonstrate long-term business outcomes such as pipeline growth, customer acquisition, or revenue impact.
 
