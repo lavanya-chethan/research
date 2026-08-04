@@ -46,31 +46,39 @@ Every recommendation in this playbook includes the author's name, publication da
 2. Continue participating in a subreddit only if the team can consistently contribute meaningful value and community feedback remains constructive. If sustained value cannot be provided, retain the insights gathered during research and discontinue active participation. (source: [David Quaid, LinkedIn post, 12.06.2026](https://www.linkedin.com/posts/davidquaid_heres-what-happens-when-reddit-mods-dont-activity-7471199238522126337-KoKk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 3. Monitor whether Reddit discussions contribute to broader brand visibility, including references in search results or AI-generated answers, but treat these observations as secondary outcomes rather than primary success metrics. Prioritize authentic community engagement over attempts to influence search or AI systems through manipulation. (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
 
-**Final Deliverable:** 
-Deliverable: Complete a one-page evaluation report summarizing:
+**Final Deliverable**
 
-1. Communities participated in
-2. Activities completed
-3. Engagement quality
-4. Customer insights discovered
-5. Qualified conversations generated
-6. Lessons learned
-7. Recommendation: Continue, Pause, or Exit each subreddit
+At the end of the 30-day implementation period, prepare a **one-page evaluation report** summarizing the overall outcomes of the Reddit marketing initiative.
+
+The report should include:
+
+1. **Communities Participated** – List the subreddits where the team actively participated.
+2. **Activities Completed** – Summarize the key activities performed, such as research, comments, discussions, product-related contributions, and feedback requests.
+3. **Engagement Quality** – Evaluate the quality of interactions, including meaningful discussions, replies from the target audience, moderator feedback, and overall community response.
+4. **Customer Insights Discovered** – Document recurring customer pain points, objections, feature requests, terminology, competitor mentions, and other valuable insights gathered during participation.
+5. **Qualified Conversations Generated** – Record conversations that resulted in product interest, demo requests, referrals, partnerships, or other meaningful business opportunities.
+6. **Lessons Learned** – Summarize what worked well, what did not work, and recommendations for improving future Reddit participation.
+7. **Recommendation** – For each subreddit, recommend one of the following actions and briefly explain the reason:
+  - **Continue** – The community is relevant, engagement is constructive, and participation is creating value.
+  - **Pause** – Results are inconclusive or additional testing is needed before continuing.
+  - **Exit** – The community is not a good fit, engagement is consistently poor, or participation creates unnecessary risk.
+
+> **Note:** This evaluation report is an internal implementation artefact developed as part of this playbook. It summarizes the outcomes of the 30-day implementation and supports future decision-making. It is **not** a recommendation taken directly from any individual expert.
 
 
 
-## Measurement scorecard
+## Measurement Scorecard
 
-Use this scorecard for the 30-day test. The metrics and thresholds are internal measurement choices, not claims attributed to the sources.
+Use this scorecard throughout the 30-day implementation to monitor progress and evaluate whether the Reddit marketing activities are meeting the objectives of this playbook. The metrics and decision thresholds below are part of this playbook's internal evaluation framework and are **not** recommendations taken directly from the referenced experts.
 
 
-| Area                 | Record                                                                              | Decision use                                    |
-| -------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------- |
-| Community fit        | Rules, audience overlap, recurring problems, and community response                 | Determine whether to participate or stop        |
-| Contribution quality | Helpful replies, substantive discussion, moderator feedback, and removals           | Improve contribution quality and reduce risk    |
-| Customer learning    | New objections, terminology, use cases, and feature requests                        | Inform messaging, content, and product research |
-| Business signals     | Qualified conversations, tracked referrals, trials, and customer-reported influence | Assess whether the channel merits another test  |
-| Risk                 | Reports, deletions, negative sentiment, or rule breaches                            | Pause immediately and review the approach       |
+| Area                     | What to Record                                                                                                          | Decision Use                                                                                            |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Community Fit**        | Subreddit rules, audience overlap, recurring problems, and overall community response.                                  | Determine whether the subreddit is suitable for continued participation.                                |
+| **Contribution Quality** | Helpful replies, meaningful discussions, moderator feedback, post removals, and overall participation quality.          | Improve future contributions and reduce participation risk.                                             |
+| **Customer Learning**    | New objections, customer terminology, use cases, feature requests, and recurring questions.                             | Improve messaging, content strategy, product research, and customer understanding.                      |
+| **Business Signals**     | Qualified conversations, tracked referrals, product trials, partnership opportunities, and customer-reported influence. | Assess whether Reddit should continue to be used as a demand-generation channel.                        |
+| **Risk**                 | Reports, deleted posts, negative community sentiment, moderator warnings, or rule violations.                           | Pause participation, review the approach, and determine whether changes are required before continuing. |
 
 
 
