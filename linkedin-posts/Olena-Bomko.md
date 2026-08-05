@@ -3,7 +3,7 @@
 ## Post 1
 
 **Date:** 2026-06-05  
-**URL:** https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw
+**URL:** [https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)
 
 **Content:**
 
@@ -32,7 +32,7 @@ My best Reddit tips:
 
 Join my community: r/MarketFit on Reddit.
 
-![Olena Bomko Reddit growth post](../other/images/Olena_Bomko_image1.png)
+Olena Bomko Reddit growth post
 
 **Summary:**
 
@@ -40,10 +40,12 @@ This post outlines Olena’s practical Reddit growth framework for improving vis
 
 ---
 
+
+
 ## Post 2
 
-**Date:** 2026-06-05  
-**URL:** https://www.linkedin.com/posts/activity-7467567954487087104-CrgK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw
+**Date:** 2026-05-06  
+**URL:** [https://www.linkedin.com/posts/activity-7467567954487087104-CrgK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw](https://www.linkedin.com/posts/activity-7467567954487087104-CrgK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)
 
 **Content:**
 
@@ -63,10 +65,11 @@ An owned Reddit community gives a lot of benefits:
 
 But you should invest in building your community.
 
-![Olena Bomko branded Reddit community post](../other/images/Olena_Bomko_image2.png)
+Olena Bomko branded Reddit community post
 
 **Summary:**
 
 This post highlights the strategic value of owning a branded Reddit community for SaaS companies. Olena explains how dedicated communities can improve AI visibility, strengthen brand trust, enable direct customer engagement, and create a sustainable content distribution channel.
 
 ---
+
