@@ -139,7 +139,9 @@ I chose not to include this approach because the idea of using AI-generated cita
 
 **Source:**  [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw).
 
-## My Original Idea: Evidence-to-Action Log
+## My Original Ideas:
+
+**Idea 1: Evidence-to-Action Log**
 
 During this research, I found that the experts provided valuable guidance on discovering customer insights and participating effectively in Reddit communities. However, I saw an opportunity to strengthen the implementation process by introducing an additional practice that helps teams consistently act on those insights. The following idea is my original contribution to this playbook.
 
@@ -166,6 +168,33 @@ This idea is my own and is therefore **not based on a specific external source**
 ### How to Evaluate It
 
 Compare the number of customer-informed product improvements, content ideas, or marketing initiatives implemented **before and after** adopting the Evidence-to-Action Log. Review the results after 30 days to determine whether the log improves collaboration between Product and Marketing teams and increases the number of actionable customer insights.
+
+**Idea 2: Assumption Reflection**
+
+During this research, I found that the experts explain how to discover customer conversations, participate in communities, and evaluate Reddit as a marketing channel. However, I noticed that none of them suggest documenting how the team's own assumptions change as a result of the research. The following idea is my original contribution to this playbook.
+
+Before beginning Reddit research, the team should write down a small number of assumptions about its customers, product, or target communities. These assumptions should be reviewed again at the end of the 30-day implementation period to determine whether they were confirmed, challenged, or disproved by the evidence gathered from Reddit.
+
+The exercise should focus on assumptions such as:
+
+- The problems customers are expected to discuss most frequently.
+- The subreddits believed to contain the target audience.
+- The type of content expected to generate meaningful engagement.
+- The objections or concerns expected to influence purchase decisions.
+
+Rather than measuring success only through engagement or business outcomes, this practice encourages the team to evaluate how its understanding of customers has evolved through direct observation and participation.
+
+### Why I Came Up with This Idea
+
+While reviewing the experts included in this research, I noticed that most of them focus on collecting customer insights and engaging with Reddit communities effectively. However, I did not find a recommendation for reflecting on how the research itself changes the team's understanding of its customers. I believe that good research should not only collect information but also challenge existing assumptions. This idea encourages teams to treat Reddit as a learning platform rather than a place to confirm what they already believe.
+
+### Why It Could Work
+
+This idea is my own and is therefore **not based on a specific external source**. It could work because it encourages evidence-based decision-making and reduces the risk of relying on untested assumptions when developing marketing strategies, product messaging, or content. It also helps teams recognize when customer behaviour differs from their initial expectations.
+
+### How to Evaluate It
+
+At the end of the 30-day implementation period, review each documented assumption and classify it as **Confirmed**, **Partially Confirmed**, or **Disproved** based on the evidence collected from Reddit. Compare the team's initial assumptions with its final conclusions and assess whether the research resulted in meaningful changes to marketing, product, or customer communication decisions.
 
 ## Weaknesses of this playbook
 
