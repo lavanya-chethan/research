@@ -35,8 +35,8 @@ Every recommendation in this playbook includes the author's name, publication da
 ### Week 3: Introduce Product-Relevant Contributions
 
 1. Publish one product-related contribution only when the subreddit permits promotional or product-related discussions and the content directly addresses an active community need. Clearly disclose your relationship to the company whenever relevant. (source: [Ross Simmonds, *The Reddit Strategy That's Winning in 2026*, YouTube, 25.02.2026](https://www.youtube.com/watch?v=WBnCNpp-i0M&t=10s)).
-2. This approach reflects the consistent recommendation across multiple experts to prioritize educational, relevant, and community-focused contributions over direct promotion.(source: [Ann Smarty, LinkedIn post, 10.06.2026](https://www.linkedin.com/posts/annsmarty_the-best-part-of-reddit-that-not-many-experts-activity-7470485449371697153-S8CT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Ahsan Zahid, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/ahsan-zahid-335629219_most-startups-fail-on-reddit-for-one-simple-activity-7464792206734729217-sKvP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
-3. If a discussion requests product recommendations and the subreddit allows relevant contributions, provide a concise, transparent response that genuinely addresses the user's question. Avoid manipulating discussions through deceptive tactics intended to influence community opinion, search visibility, or AI-generated content.(source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
+2. When sharing product-related information, prioritize educational answers, practical examples, templates, or feedback requests instead of direct sales pitches. Across the research collected for this playbook, multiple experts consistently emphasize that value-driven participation is more effective than promotional messaging. (source: [Ann Smarty, LinkedIn post, 10.06.2026](https://www.linkedin.com/posts/annsmarty_the-best-part-of-reddit-that-not-many-experts-activity-7470485449371697153-S8CT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Ahsan Zahid, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/ahsan-zahid-335629219_most-startups-fail-on-reddit-for-one-simple-activity-7464792206734729217-sKvP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
+3. If a discussion requests product recommendations and the subreddit allows relevant contributions, provide a concise, transparent response that genuinely addresses the user's question. Avoid manipulating discussions through deceptive tactics intended to influence community opinion, search visibility, or AI-generated content. (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
 
 **Deliverable:** Publish one transparent, product-relevant contribution (where permitted), document the discussion link, community response, engagement metrics (e.g., comments, upvotes), and any qualitative feedback. Record whether the contribution generated meaningful discussion without violating subreddit rules.
 
@@ -44,7 +44,7 @@ Every recommendation in this playbook includes the author's name, publication da
 
 1. Evaluate the quality of engagement rather than relying on vanity metrics. Review whether discussions attracted the target audience, generated useful product insights, led to qualified conversations or referrals, and identify any negative community feedback. Do not treat follower count or reach alone as indicators of success. (source: [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 2. Continue participating in a subreddit only if the team can consistently contribute meaningful value and community feedback remains constructive. If sustained value cannot be provided, retain the insights gathered during research and discontinue active participation. (source: [David Quaid, LinkedIn post, 12.06.2026](https://www.linkedin.com/posts/davidquaid_heres-what-happens-when-reddit-mods-dont-activity-7471199238522126337-KoKk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
-3. Monitor whether Reddit discussions contribute to broader brand visibility, including references in search results or AI-generated answers, but treat these observations as secondary outcomes rather than primary success metrics. Prioritize authentic community engagement over attempts to influence search or AI systems through manipulation. (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
+3. Monitor whether Reddit discussions contribute to broader brand visibility, including mentions in search results or AI-generated responses. However, treat these observations as secondary outcomes rather than primary success metrics, as they cannot be directly attributed to Reddit participation alone. (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
 
 **Final Deliverable**
 
@@ -99,7 +99,7 @@ While reviewing the research for this playbook, I found that the experts general
 
 - **Olena Bomko recommends:** auditing AI visibility, locating relevant Reddit conversations, and adding valuable comments to open discussions (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 - **Lars Lofgren highlights:** the risks of Reddit manipulation, including astroturfing, reputation damage, and the potential influence of manipulated discussions on search engines and AI-generated responses. (source: [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
-- **My Position:** take the ethical middle ground: observe where the brand appears and make only transparent, useful contributions where permitted; never attempt to manufacture mentions or rankings. This preserves Olena's audit idea while following Lars's warning about manipulation risk (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 14.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
+- **My Position:** take the ethical middle ground: observe where the brand appears and make only transparent, useful contributions where permitted; never attempt to manufacture mentions or rankings. This preserves Olena's audit idea while following Lars's warning about manipulation risk (source: [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw); [Lars Lofgren, *Reddit's Dirty Secret: Astroturfing, Corrupt Mods & Coordinated Attacks*, YouTube, 06.05.2026](https://www.youtube.com/watch?v=qoy6eBMifLU&t=44s)).
 
 
 
@@ -117,7 +117,7 @@ During my research, I found several ideas and approaches that were discussed by 
 
 **1. Manufacturing Product Mentions or Other Deceptive Promotion.**
 
-I chose not to include this approach because that relies on fake accounts, manufactured product mentions, deceptive reviews, or other forms of artificial community influence. These practices are inconsistent with the playbook's emphasis on transparency and create significant reputation and business risks.
+I chose not to include this approach because it relies on fake accounts, manufactured product mentions, deceptive reviews, or other forms of artificial community influence. These practices are inconsistent with the playbook's emphasis on transparency and create significant reputation and business risks.
 
 **Reason:** Lars Lofgren warns that manipulative Reddit practices can undermine trust, damage brand reputation, and distort public discussions.
 
@@ -125,7 +125,7 @@ I chose not to include this approach because that relies on fake accounts, manuf
 
 **2. Using Follower Count or Reach as the Primary Success Metric.**
 
-I chose not to include this approach because the idea of evaluating Reddit solely through follower count or reach because these metrics do not necessarily reflect meaningful engagement, customer learning, or business outcomes.
+I chose not to include this approach because evaluating Reddit solely through follower count or reach does not reflect meaningful engagement, customer learning, or business outcomes.
 
 **Reason:** This playbook prioritizes community quality, customer insights, and qualified conversations over vanity metrics.
 
@@ -171,7 +171,7 @@ This idea is my own and is therefore **not based on a specific external source**
 
 Compare the number of customer-informed product improvements, content ideas, or marketing initiatives implemented **before and after** adopting the Evidence-to-Action Log. Review the results after 30 days to determine whether the log improves collaboration between Product and Marketing teams and increases the number of actionable customer insights.
 
-**Idea 2: Assumption Reflection**
+**Idea 2: Assumption Audit**
 
 During this research, I found that the experts explain how to discover customer conversations, participate in communities, and evaluate Reddit as a marketing channel. However, I noticed that none of them suggest documenting how the team's own assumptions change as a result of the research. The following idea is my original contribution to this playbook.
 
@@ -221,4 +221,4 @@ This assessment reflects the relevance of the available material to the objectiv
 
 This playbook represents my interpretation of the research collected during this assignment. Rather than treating every expert recommendation as equally applicable, I compared different viewpoints, evaluated their strengths and limitations, and selected the approaches that I believe best support ethical and sustainable Reddit marketing for B2B SaaS companies.
 
-I expect this playbook to evolve as additional research, practical implementation, and new community insights become available. The recommendations should therefore be viewed as a structured starting point for experimentation rather than a fixed set of rules.
+While this playbook is based on the sources collected for this assignment, I view it as a practical starting point that should continue evolving as new evidence, community behaviour, and implementation experience emerge.
