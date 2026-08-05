@@ -85,7 +85,7 @@ Use this scorecard throughout the 30-day implementation to monitor progress and 
 
 ## Where Experts Disagree
 
-The experts referenced in this playbook generally agree on the importance of authentic participation and community value. However, they differ in several strategic areas. Rather than selecting one viewpoint uncritically, I evaluated the available evidence and selected the approach that best aligns with ethical, sustainable Reddit marketing for B2B SaaS companies.
+While reviewing the research for this playbook, I found that the experts generally agree on the importance of authentic participation and providing value to Reddit communities. However, they differ in several strategic areas. Rather than selecting one viewpoint without evaluation, I compared the available evidence and adopted the approach that I believe best supports ethical, sustainable Reddit marketing for B2B SaaS companies.
 
 ### 1. Is Reddit an acquisition channel or primarily a research channel?
 
@@ -140,6 +140,8 @@ I chose not to include this approach because the idea of using AI-generated cita
 **Source:**  [Olena Bomko, LinkedIn post, 05.06.2026](https://www.linkedin.com/posts/activity-7468649378958897152-9SA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw).
 
 ## My Original Ideas:
+
+The following ideas are based on observations I made while comparing the experts included in this repository. They are not derived from a single source and are intended to complement the existing recommendations rather than replace them.
 
 **Idea 1: Evidence-to-Action Log**
 
@@ -196,10 +198,9 @@ This idea is my own and is therefore **not based on a specific external source**
 
 At the end of the 30-day implementation period, review each documented assumption and classify it as **Confirmed**, **Partially Confirmed**, or **Disproved** based on the evidence collected from Reddit. Compare the team's initial assumptions with its final conclusions and assess whether the research resulted in meaningful changes to marketing, product, or customer communication decisions.
 
-
 ## Weaknesses of this playbook
 
-This playbook is intended to provide a practical framework for ethical Reddit marketing rather than a universally applicable methodology. The following limitations should be considered before applying it across different products, industries, or communities.
+This playbook is intended to serve as a practical implementation guide rather than a universally applicable methodology. The recommendations are based on the evidence collected during this research and should be adapted to the specific product, audience, and subreddit before implementation.
 
 - This playbook is based primarily on expert opinions, LinkedIn posts, and interviews rather than controlled experiments. As a result, it should be treated as a practical implementation framework rather than evidence that the same approach will produce consistent business results for every B2B SaaS company.
 - Every subreddit has its own rules, moderation style, and community expectations. An approach that is welcomed in one community may be removed, ignored, or negatively received in another. Teams should therefore validate community rules before applying any recommendation in this playbook.
@@ -215,3 +216,9 @@ Based on the sources included in this repository, I would not rely on **Vithika 
 The material I reviewed focuses primarily on community building and audience engagement on LinkedIn rather than Reddit-specific execution. It does not provide a repeatable Reddit operating process, subreddit-specific examples, or evidence of B2B SaaS implementation that could be directly incorporated into this playbook (source: [Vithika Gururani, LinkedIn post, 26.05.2026](https://www.linkedin.com/posts/vithikagururani_11000-people-are-here-lets-do-something-activity-7452589539786653696-5uKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmTDt8BDWmOLMsDU7QwDw9oszTNyrMMZVw)).
 
 This assessment reflects the relevance of the available material to the objectives of this playbook rather than the author's overall expertise or credibility. Her work may still be valuable for understanding community engagement and audience communication in other contexts.
+
+## Conclusion
+
+This playbook represents my interpretation of the research collected during this assignment. Rather than treating every expert recommendation as equally applicable, I compared different viewpoints, evaluated their strengths and limitations, and selected the approaches that I believe best support ethical and sustainable Reddit marketing for B2B SaaS companies.
+
+I expect this playbook to evolve as additional research, practical implementation, and new community insights become available. The recommendations should therefore be viewed as a structured starting point for experimentation rather than a fixed set of rules.
